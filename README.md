@@ -4,7 +4,7 @@
 
 <p>Este es un sitio web de comercio electrónico minimalista creado con React y CSS. Este sitio web cuenta con un diseño moderno e intuitivo, con una navegación fácil de usar y un 7 experiencia de compra sencilla que pone el foco en los productos.</p>
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Ecommerce Demo</a>
+👉 Live Demo: <a href='https://minimalist-e-commerce-main.vercel.app/'>Ecommerce Demo</a>
 
 <h3>construido con:</h3>
 
