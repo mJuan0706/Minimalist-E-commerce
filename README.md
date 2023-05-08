@@ -8,5 +8,5 @@
 
 <h3>construido con:</h3>
 
-» Vanila CSS <br>
+» CSS <br>
 » React JS
